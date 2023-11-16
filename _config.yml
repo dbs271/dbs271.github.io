@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "개발걸음"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "GukHyeon Yoon"
+name                     : "GukHyeon"
 description              : "개발자의 길을 걷기로 마음 먹은 사람"
 url                      : "https://dbs271.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
