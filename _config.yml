@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "GukHyeon Yoon"
+  name             : "GukHyeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발자의 길을 걷기로 한 사람"
   location         : "South Korea"
